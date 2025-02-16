@@ -1,0 +1,62 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+ul{
+     list-style: none;
+}
+.asos{
+     margin-top: 100px;
+     background-color: #000;
+     display: flex;
+     justify-content: center;
+}
+.kdiv{
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+     justify-content: center;
+     padding: 40px;
+     background-color: #1F1F1F;
+     border-radius: 15px;
+}
+.avaimg{
+     margin-bottom: 24px;
+}
+.texth1{
+     color: #fff;
+     font-size: 24px;
+}
+.texth5{
+     color: #C4F82A;
+     margin-bottom: 24px;
+     font-size: 14px;
+     font-weight: 700;
+}
+.textp{
+     color: #FFFFFF;
+     margin-bottom: 24px;
+}
+.ull{
+     display: flex;
+     flex-direction: column;
+     gap: 16px;
+     justify-content: center;
+     text-align: center;
+}
+.lii{
+     color: #fff;
+     background-color: #333333;
+     padding: 12px 127px;
+     border-radius: 5px;
+}
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap);
+     
+body {
+  font-family: 'Inter', sans-serif;
+};
+.lii:hover{
+     background-color: #C4F82A;
+     color: #333333;
+}
