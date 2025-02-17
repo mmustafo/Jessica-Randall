@@ -51,12 +51,14 @@ ul{
      padding: 12px 127px;
      border-radius: 5px;
 }
+.lii:hover {
+     background-color: #C4F82A;
+     color: #333333;
+   
+}
 @import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap);
      
 body {
   font-family: 'Inter', sans-serif;
 };
-.lii:hover{
-     background-color: #C4F82A;
-     color: #333333;
-}
+
